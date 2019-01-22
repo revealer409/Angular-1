@@ -1,3 +1,9 @@
+# Routing
+This is the small project on how the routing works in angular.
+
+## Notes
+I also attached the notes file inside the folder. Feel free to have a look and ask if you have any questions.
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
